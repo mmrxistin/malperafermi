@@ -11,6 +11,9 @@
 // Rabbena Ve Lekel Hamd . İnneke Hamidun Mecid
 // Allahu Ekber Allahu Ekber Allahu Ekber La ilahe illAllah
 // Allahu Ekber Allahu Ekber ve Lillahil Hamd
+
+
+
 // import type { Core } from '@strapi/strapi';
 
 export default {
